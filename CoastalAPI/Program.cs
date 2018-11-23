@@ -21,6 +21,6 @@ namespace CoastalAPI
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
 
-            // Test
+            // Test 2
     }
 }
