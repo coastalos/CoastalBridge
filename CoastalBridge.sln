@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoastalBridge", "CoastalBridge\CoastalBridge.csproj", "{9EC2509C-74F5-41BD-9082-ACCD7F63A045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoastalAPI", "CoastalAPI\CoastalAPI.csproj", "{A59BFD59-4C18-424B-B051-BE2993AE4856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoastalAPI", "CoastalAPI\CoastalAPI.csproj", "{A59BFD59-4C18-424B-B051-BE2993AE4856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoastalBridge", "CoastalBridge\CoastalBridge.csproj", "{DF339442-3528-4A0C-9AAC-CCB58B337300}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9EC2509C-74F5-41BD-9082-ACCD7F63A045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9EC2509C-74F5-41BD-9082-ACCD7F63A045}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9EC2509C-74F5-41BD-9082-ACCD7F63A045}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9EC2509C-74F5-41BD-9082-ACCD7F63A045}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A59BFD59-4C18-424B-B051-BE2993AE4856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A59BFD59-4C18-424B-B051-BE2993AE4856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59BFD59-4C18-424B-B051-BE2993AE4856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59BFD59-4C18-424B-B051-BE2993AE4856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF339442-3528-4A0C-9AAC-CCB58B337300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF339442-3528-4A0C-9AAC-CCB58B337300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF339442-3528-4A0C-9AAC-CCB58B337300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF339442-3528-4A0C-9AAC-CCB58B337300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
